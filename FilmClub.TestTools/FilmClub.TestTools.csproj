@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="InfraSteructure\Genres\Factory\CreateGenerServiceFactory.cs~RF18f351cf.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FilmClub.Contracts\FilmClub.Contracts.csproj" />
+    <ProjectReference Include="..\FilmClub.Entity\FilmClub.Entity.csproj" />
+    <ProjectReference Include="..\FilmClub.prersistance\FilmClub.prersistance.csproj" />
+    <ProjectReference Include="..\FilmClub.Service\FilmClub.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="6.0.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.27" />
+  </ItemGroup>
+
+</Project>

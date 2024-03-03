@@ -1,0 +1,17 @@
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.csproj.AssemblyReference.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.AssemblyInfoInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.AssemblyInfo.cs
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.csproj.CoreCompileInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\bin\Debug\net6.0\FilmClub.Service.deps.json
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\bin\Debug\net6.0\FilmClub.Service.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\bin\Debug\net6.0\FilmClub.Service.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\bin\Debug\net6.0\FilmClub.Contracts.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\bin\Debug\net6.0\FilmClub.Entity.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\bin\Debug\net6.0\FilmClub.Contracts.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\bin\Debug\net6.0\FilmClub.Entity.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.csproj.CopyComplete
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\refint\FilmClub.Service.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\FilmClub.Service.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Service\obj\Debug\net6.0\ref\FilmClub.Service.dll

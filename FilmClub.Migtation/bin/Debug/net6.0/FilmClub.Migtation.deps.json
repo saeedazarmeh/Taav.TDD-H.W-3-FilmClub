@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FilmClub.Migtation/1.0.0": {
+        "dependencies": {
+          "FilmClub.Entity": "1.0.0"
+        },
+        "runtime": {
+          "FilmClub.Migtation.dll": {}
+        }
+      },
+      "FilmClub.Entity/1.0.0": {
+        "runtime": {
+          "FilmClub.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilmClub.Migtation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FilmClub.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

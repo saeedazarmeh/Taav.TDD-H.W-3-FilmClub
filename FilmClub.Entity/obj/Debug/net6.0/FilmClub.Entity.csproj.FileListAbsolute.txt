@@ -1,0 +1,12 @@
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\FilmClub.Entity.csproj.AssemblyReference.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\FilmClub.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\FilmClub.Entity.AssemblyInfoInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\FilmClub.Entity.AssemblyInfo.cs
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\FilmClub.Entity.csproj.CoreCompileInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\bin\Debug\net6.0\FilmClub.Entity.deps.json
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\bin\Debug\net6.0\FilmClub.Entity.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\bin\Debug\net6.0\FilmClub.Entity.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\FilmClub.Entity.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\refint\FilmClub.Entity.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\FilmClub.Entity.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.Entity\obj\Debug\net6.0\ref\FilmClub.Entity.dll
