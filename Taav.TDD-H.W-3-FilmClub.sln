@@ -15,19 +15,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.InfraStructure", "02.Inf
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Presentation", "03.Presentation", "{64F9BFC5-ADA9-481E-9C65-0AAFFBF25D19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmClub.UnitTest", "FilmClub.UnitTest\FilmClub.UnitTest.csproj", "{4B8D7C57-EF81-4B96-ADFE-86804B8B2B4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmClub.UnitTest", "FilmClub.UnitTest\FilmClub.UnitTest.csproj", "{4B8D7C57-EF81-4B96-ADFE-86804B8B2B4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmClub.TestTools", "FilmClub.TestTools\FilmClub.TestTools.csproj", "{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmClub.TestTools", "FilmClub.TestTools\FilmClub.TestTools.csproj", "{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmClub.Contracts", "FilmClub.Contracts\FilmClub.Contracts.csproj", "{7FD91463-335E-489C-8643-D05849AEE02D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmClub.Contracts", "FilmClub.Contracts\FilmClub.Contracts.csproj", "{7FD91463-335E-489C-8643-D05849AEE02D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmClub.Entity", "FilmClub.Entity\FilmClub.Entity.csproj", "{9A6D8425-93F2-4171-9B4F-C1667A97F3A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmClub.Entity", "FilmClub.Entity\FilmClub.Entity.csproj", "{9A6D8425-93F2-4171-9B4F-C1667A97F3A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmClub.Service", "FilmClub.Service\FilmClub.Service.csproj", "{BAC09480-4498-477C-B238-C3BE6675EA95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmClub.Service", "FilmClub.Service\FilmClub.Service.csproj", "{BAC09480-4498-477C-B238-C3BE6675EA95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmClub.prersistance", "FilmClub.prersistance\FilmClub.prersistance.csproj", "{411B4851-A7E5-42D5-A1D1-3A3EA66F715B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmClub.prersistance", "FilmClub.prersistance\FilmClub.prersistance.csproj", "{411B4851-A7E5-42D5-A1D1-3A3EA66F715B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmClub.Migtation", "FilmClub.Migtation\FilmClub.Migtation.csproj", "{D9D4F1E1-38B4-4B40-A7D4-8E3561E85BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilmClub.Migtation", "FilmClub.Migtation\FilmClub.Migtation.csproj", "{D9D4F1E1-38B4-4B40-A7D4-8E3561E85BD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="InfraSteructure\Films\Factory\CreateFilmServiceFactory.cs~RF1ac07af0.TMP" />
     <None Remove="InfraSteructure\Genres\Factory\CreateGenerServiceFactory.cs~RF18f351cf.TMP" />
   </ItemGroup>
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FilmClub.Entity.Films;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +17,8 @@ namespace FilmClub.Entity.Gentes
         public int Id { get;private set; }
         public string Title { get;private set; }
         public int Rate { get; private set; }
+        public List<Film> Films { get; private set; }
+
         public void TitleEdit(string title)
         {
             Title = title;

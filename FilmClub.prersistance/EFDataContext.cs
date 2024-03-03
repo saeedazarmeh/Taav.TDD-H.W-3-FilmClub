@@ -1,4 +1,5 @@
-﻿using FilmClub.Entity.Gentes;
+﻿using FilmClub.Entity.Films;
+using FilmClub.Entity.Gentes;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -22,6 +23,7 @@ namespace FilmClub.prersistance
         }
 
         public DbSet<Genre> Genres { get; set; }
+        public DbSet<Film> Films { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
