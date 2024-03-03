@@ -24,12 +24,23 @@ namespace FilmClub.Service.Genres
         }
         public async Task Add(AddGenreDTO addGenreDTO)
         {
-            if (await _repository.ExistTitle(addGenreDTO.Title))
+            if (await _repository.ExistTitleAsync(addGenreDTO.Title))
             {
                 throw new DuplicateGenreTitleException();
             }
             var genre = new Genre(addGenreDTO.Title);
             _repository.Add(genre);
+            await _unit.Complete();
+        }
+        public async Task Update(int id,UpdateGenreDTO updateGenreDTO)
+        {
+            var genre = await _repository.GetAsynk(id);
+            if(genre == null)
+            {
+                throw new GenreNotFoundException();
+            }
+            genre.TitleEdit(updateGenreDTO.Title);
+            _repository.Update(genre);
             await _unit.Complete();
         }
     }

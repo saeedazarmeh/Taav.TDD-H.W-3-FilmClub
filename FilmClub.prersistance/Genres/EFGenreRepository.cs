@@ -24,9 +24,19 @@ namespace FilmClub.prersistance.Genres
             _context.Add(genre);
         }
 
-        public async Task<bool> ExistTitle(string title)
+        public async Task<bool> ExistTitleAsync(string title)
         {
             return await _context.AnyAsync(g=>g.Title==title);
+        }
+
+        public async Task<Genre> GetAsynk(int id)
+        {
+            return await _context.FirstOrDefaultAsync(g=>g.Id==id);
+        }
+
+        public void Update(Genre genre)
+        {
+            _context.Update(genre);
         }
     }
 }

@@ -11,6 +11,8 @@ namespace FilmClub.Service.Contracts
     public interface GenreRepository
     {
         public void Add(Genre genre);
-        Task<bool> ExistTitle(string title);
+        public Task<Genre> GetAsynk(int id);
+        Task<bool> ExistTitleAsync(string title);
+        void Update(Genre genre);
     }
 }
