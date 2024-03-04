@@ -13,13 +13,13 @@ using System.Threading.Tasks;
 
 namespace FilmClub.Service.Films
 {
-    public class FilmAppService : FilmService
+    public class FilmManagementAppService : FilmManagementService
     {
         private readonly FilmRepository _filmrepository;
         private readonly GenreRepository _genrerepository;
         private readonly UnitOfWork _unit;
 
-        public FilmAppService(FilmRepository repository, UnitOfWork unit,GenreRepository genreRepository)
+        public FilmManagementAppService(FilmRepository repository, UnitOfWork unit,GenreRepository genreRepository)
         {
             _filmrepository = repository;
             _genrerepository = genreRepository;

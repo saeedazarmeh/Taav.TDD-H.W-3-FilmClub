@@ -13,12 +13,12 @@ namespace FilmClub.TestTools.InfraSteructure.Films.Factory
 {
     public class CreateFilmServiceFactory
     {
-        public static FilmAppService Create(EFDataContext context)
+        public static FilmManagementAppService Create(EFDataContext context)
         {
             var filmRepository = new EFFilmRepository(context.Films);
             var genreRepository = new EFGenreRepository(context.Genres);
             var unit = new EFUnitOfWork(context);
-            return new FilmAppService(filmRepository, unit, genreRepository);
+            return new FilmManagementAppService(filmRepository, unit, genreRepository);
         } 
     }
 }

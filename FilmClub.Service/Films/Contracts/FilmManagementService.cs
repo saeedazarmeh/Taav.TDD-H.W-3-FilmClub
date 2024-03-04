@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FilmClub.Service.Films.Contracts
 {
-    public interface FilmService
+    public interface FilmManagementService
     {
         Task Add(AddFilmeDTO addFilmeDTO);
     }
