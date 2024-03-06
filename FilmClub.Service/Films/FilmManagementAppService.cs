@@ -1,12 +1,14 @@
 ﻿using FilmClub.Contracts.InfraStucture;
 using FilmClub.Entity.Films;
 using FilmClub.Entity.Films.ValiuOBject;
-using FilmClub.Service.Contracts;
+using FilmClub.Service.Auth;
 using FilmClub.Service.Films.Contracts;
 using FilmClub.Service.Films.Contracts.DTO;
 using FilmClub.Service.Films.Exceptions;
+using FilmClub.Service.Genres.Contracts;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,27 +20,32 @@ namespace FilmClub.Service.Films
         private readonly FilmRepository _filmrepository;
         private readonly GenreRepository _genrerepository;
         private readonly UnitOfWork _unit;
+        private readonly AuthRepository _auth;
 
-        public FilmManagementAppService(FilmRepository repository, UnitOfWork unit,GenreRepository genreRepository)
+        public FilmManagementAppService(FilmRepository repository, UnitOfWork unit,GenreRepository genreRepository, AuthRepository auth)
         {
             _filmrepository = repository;
             _genrerepository = genreRepository;
             _unit = unit;
+            _auth = auth;
         }
 
         public async Task Add(AddFilmeDTO addFilmeDTO)
         {
-            var genre=await _genrerepository.GetAsynk(addFilmeDTO.GenreId);
-            if (genre == null)
+            if (_auth.HasPermission() && _auth.IsAthonticated())
             {
-                throw new DataNotFoundException();
+                var genre = await _genrerepository.GetAsynk(addFilmeDTO.GenreId);
+                if (genre == null)
+                {
+                    throw new DataNotFoundException();
+                }
+                var amount = new Amount(addFilmeDTO.Price, addFilmeDTO.DelayPenaltyPersantage, addFilmeDTO.RentPrice);
+                var film = new Film(addFilmeDTO.Title, addFilmeDTO.DurationPerMinuts, addFilmeDTO.CreatedYear, addFilmeDTO.LimitatedAge);
+                film.AddAmount(amount);
+                film.AddGenre(genre);
+                _filmrepository.Add(film);
+                _unit.Complete();
             }
-            var amount = new Amount(addFilmeDTO.Price, addFilmeDTO.DelayPenaltyPersantage, addFilmeDTO.RentPrice);
-            var film = new Film(addFilmeDTO.Title, addFilmeDTO.DurationPerMinuts, addFilmeDTO.CreatedYear, addFilmeDTO.LimitatedAge);
-            film.AddAmount(amount);
-            film.AddGenre(genre);
-            _filmrepository.Add(film);
-            _unit.Complete();   
         }
 
         public void Dispose()

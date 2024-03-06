@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FilmClub.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90037e92e01e78fb7101ace97c0f7ca4da402373")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+671bc441f7b900470b5a4b0990a95ea5303dea51")]
 [assembly: System.Reflection.AssemblyProductAttribute("FilmClub.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FilmClub.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

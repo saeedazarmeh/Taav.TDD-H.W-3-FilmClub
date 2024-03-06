@@ -2838,7 +2838,8 @@
           "FilmClub.Service": "1.0.0",
           "FilmClub.prersistance": "1.0.0",
           "Microsoft.Data.Sqlite.Core": "6.0.27",
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.27"
+          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.27",
+          "Moq": "4.20.70"
         },
         "compile": {
           "bin/placeholder/FilmClub.TestTools.dll": {}

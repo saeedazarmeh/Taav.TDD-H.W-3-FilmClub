@@ -1,6 +1,6 @@
 ﻿using FilmClub.Contracts.InfraStucture;
 using FilmClub.Entity.Gentes;
-using FilmClub.Service.Contracts;
+using FilmClub.Service.Auth;
 using FilmClub.Service.Genres.Contracts;
 using FilmClub.Service.Genres.Contracts.DTO;
 using FilmClub.Service.Genres.Exceptions;
@@ -16,6 +16,7 @@ namespace FilmClub.Service.Genres
     {
         private readonly GenreRepository _repository;
         private readonly UnitOfWork _unit;
+      
 
         public GenreManagementAppService(GenreRepository repository, UnitOfWork unit)
         {
@@ -24,13 +25,14 @@ namespace FilmClub.Service.Genres
         }
         public async Task Add(AddGenreDTO addGenreDTO)
         {
-            if (await _repository.ExistTitleAsync(addGenreDTO.Title))
-            {
-                throw new DuplicateGenreTitleException();
-            }
-            var genre = new Genre(addGenreDTO.Title);
-            _repository.Add(genre);
-            await _unit.Complete();
+           
+                if (await _repository.ExistTitleAsync(addGenreDTO.Title))
+                {
+                    throw new DuplicateGenreTitleException();
+                }
+                var genre = new Genre(addGenreDTO.Title);
+                _repository.Add(genre);
+                await _unit.Complete();
         }
         public async Task Update(int id,UpdateGenreDTO updateGenreDTO)
         {

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FilmClub.Service.Contracts
+namespace FilmClub.Service.Genres.Contracts
 {
     public interface GenreRepository
     {

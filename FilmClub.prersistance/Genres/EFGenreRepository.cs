@@ -1,5 +1,5 @@
 ﻿using FilmClub.Entity.Gentes;
-using FilmClub.Service.Contracts;
+using FilmClub.Service.Genres.Contracts;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
