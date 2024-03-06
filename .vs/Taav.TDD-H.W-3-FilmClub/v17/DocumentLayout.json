@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8D7C57-EF81-4B96-ADFE-86804B8B2B4A}|FilmClub.UnitTest\\FilmClub.UnitTest.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.unittest\\films\\filmmanagementservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8D7C57-EF81-4B96-ADFE-86804B8B2B4A}|FilmClub.UnitTest\\FilmClub.UnitTest.csproj|solutionrelative:filmclub.unittest\\films\\filmmanagementservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.testtools\\infrasteructure\\databaseconfig\\unit\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|solutionrelative:filmclub.testtools\\infrasteructure\\databaseconfig\\unit\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.testtools\\infrasteructure\\genres\\builder\\creategenrebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|solutionrelative:filmclub.testtools\\infrasteructure\\genres\\builder\\creategenrebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.testtools\\infrasteructure\\inmemorysingleton\\createinmemorydatabasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|solutionrelative:filmclub.testtools\\infrasteructure\\inmemorysingleton\\createinmemorydatabasesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.testtools\\infrasteructure\\films\\fixture\\filmservicefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E7A9-EEB5-47D5-87D3-2D8209E1C65E}|FilmClub.TestTools\\FilmClub.TestTools.csproj|solutionrelative:filmclub.testtools\\infrasteructure\\films\\fixture\\filmservicefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8D7C57-EF81-4B96-ADFE-86804B8B2B4A}|FilmClub.UnitTest\\FilmClub.UnitTest.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.unittest\\genres\\genremanagementservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8D7C57-EF81-4B96-ADFE-86804B8B2B4A}|FilmClub.UnitTest\\FilmClub.UnitTest.csproj|solutionrelative:filmclub.unittest\\genres\\genremanagementservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDE64FA-B281-45CC-BE42-8D2C40F7AC68}|InfraStructure\\InfraStructure.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\infrastructure\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDE64FA-B281-45CC-BE42-8D2C40F7AC68}|InfraStructure\\InfraStructure.csproj|solutionrelative:infrastructure\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC09480-4498-477C-B238-C3BE6675EA95}|FilmClub.Service\\FilmClub.Service.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.service\\films\\contracts\\filmmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC09480-4498-477C-B238-C3BE6675EA95}|FilmClub.Service\\FilmClub.Service.csproj|solutionrelative:filmclub.service\\films\\contracts\\filmmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6D8425-93F2-4171-9B4F-C1667A97F3A9}|FilmClub.Entity\\FilmClub.Entity.csproj|f:\\job-programing\\taav sys course\\taav_tests\\tdd\\taav.tdd-h.w-3-filmclub\\filmclub.entity\\films\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6D8425-93F2-4171-9B4F-C1667A97F3A9}|FilmClub.Entity\\FilmClub.Entity.csproj|solutionrelative:filmclub.entity\\films\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextHelper.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\DataBaseConfig\\Unit\\DbContextHelper.cs",
+              "RelativeDocumentMoniker": "FilmClub.TestTools\\InfraSteructure\\DataBaseConfig\\Unit\\DbContextHelper.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\DataBaseConfig\\Unit\\DbContextHelper.cs",
+              "RelativeToolTip": "FilmClub.TestTools\\InfraSteructure\\DataBaseConfig\\Unit\\DbContextHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvxAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:38:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateGenreBuilder.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\Genres\\Builder\\CreateGenreBuilder.cs",
+              "RelativeDocumentMoniker": "FilmClub.TestTools\\InfraSteructure\\Genres\\Builder\\CreateGenreBuilder.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\Genres\\Builder\\CreateGenreBuilder.cs",
+              "RelativeToolTip": "FilmClub.TestTools\\InfraSteructure\\Genres\\Builder\\CreateGenreBuilder.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:53:48.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Film.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.Entity\\Films\\Film.cs",
+              "RelativeDocumentMoniker": "FilmClub.Entity\\Films\\Film.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.Entity\\Films\\Film.cs",
+              "RelativeToolTip": "FilmClub.Entity\\Films\\Film.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAABYwDsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T18:34:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreManagementServiceTest.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.UnitTest\\Genres\\GenreManagementServiceTest.cs",
+              "RelativeDocumentMoniker": "FilmClub.UnitTest\\Genres\\GenreManagementServiceTest.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.UnitTest\\Genres\\GenreManagementServiceTest.cs",
+              "RelativeToolTip": "FilmClub.UnitTest\\Genres\\GenreManagementServiceTest.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:22:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmManagementServiceTest.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.UnitTest\\Films\\FilmManagementServiceTest.cs",
+              "RelativeDocumentMoniker": "FilmClub.UnitTest\\Films\\FilmManagementServiceTest.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.UnitTest\\Films\\FilmManagementServiceTest.cs",
+              "RelativeToolTip": "FilmClub.UnitTest\\Films\\FilmManagementServiceTest.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:14:02.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateInMemoryDatabaseSingleton.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\InMemorySingleton\\CreateInMemoryDatabaseSingleton.cs",
+              "RelativeDocumentMoniker": "FilmClub.TestTools\\InfraSteructure\\InMemorySingleton\\CreateInMemoryDatabaseSingleton.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\InMemorySingleton\\CreateInMemoryDatabaseSingleton.cs",
+              "RelativeToolTip": "FilmClub.TestTools\\InfraSteructure\\InMemorySingleton\\CreateInMemoryDatabaseSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:10:57.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmServiceFixture.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\Films\\Fixture\\FilmServiceFixture.cs",
+              "RelativeDocumentMoniker": "FilmClub.TestTools\\InfraSteructure\\Films\\Fixture\\FilmServiceFixture.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.TestTools\\InfraSteructure\\Films\\Fixture\\FilmServiceFixture.cs",
+              "RelativeToolTip": "FilmClub.TestTools\\InfraSteructure\\Films\\Fixture\\FilmServiceFixture.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:40:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmManagementService.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.Service\\Films\\Contracts\\FilmManagementService.cs",
+              "RelativeDocumentMoniker": "FilmClub.Service\\Films\\Contracts\\FilmManagementService.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\FilmClub.Service\\Films\\Contracts\\FilmManagementService.cs",
+              "RelativeToolTip": "FilmClub.Service\\Films\\Contracts\\FilmManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:06:28.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\InfraStructure\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\AuthRepository.cs",
+              "ToolTip": "F:\\Job-programing\\Taav Sys Course\\TAAV_Tests\\TDD\\Taav.TDD-H.W-3-FilmClub\\InfraStructure\\AuthRepository.cs",
+              "RelativeToolTip": "InfraStructure\\AuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:26:22.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

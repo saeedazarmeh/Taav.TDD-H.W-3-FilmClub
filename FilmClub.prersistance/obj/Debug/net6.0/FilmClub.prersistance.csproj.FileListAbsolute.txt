@@ -12,8 +12,9 @@ F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClu
 F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\bin\Debug\net6.0\FilmClub.Entity.pdb
 F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\bin\Debug\net6.0\FilmClub.Service.pdb
 F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\bin\Debug\net6.0\FilmClub.Contracts.pdb
-F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\obj\Debug\net6.0\FilmClub.prersistance.csproj.CopyComplete
 F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\obj\Debug\net6.0\FilmClub.prersistance.dll
 F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\obj\Debug\net6.0\refint\FilmClub.prersistance.dll
 F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\obj\Debug\net6.0\FilmClub.prersistance.pdb
 F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\obj\Debug\net6.0\ref\FilmClub.prersistance.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\obj\Debug\net6.0\FilmClub.prersistance.sourcelink.json
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\FilmClub.prersistance\obj\Debug\net6.0\FilmClub.C5AB0D56.Up2Date

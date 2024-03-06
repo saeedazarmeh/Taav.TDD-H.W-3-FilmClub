@@ -1,0 +1,12 @@
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\bin\Debug\net6.0\InfraStructure.deps.json
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\bin\Debug\net6.0\InfraStructure.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\bin\Debug\net6.0\InfraStructure.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\InfraStructure.AssemblyInfoInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\InfraStructure.AssemblyInfo.cs
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\InfraStructure.csproj.CoreCompileInputs.cache
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\InfraStructure.sourcelink.json
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\InfraStructure.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\refint\InfraStructure.dll
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\InfraStructure.pdb
+F:\Job-programing\Taav Sys Course\TAAV_Tests\TDD\Taav.TDD-H.W-3-FilmClub\InfraStructure\obj\Debug\net6.0\ref\InfraStructure.dll

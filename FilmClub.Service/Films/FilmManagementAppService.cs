@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace FilmClub.Service.Films
 {
-    public class FilmManagementAppService : FilmManagementService
+    public class FilmManagementAppService : FilmManagementService,IDisposable
     {
         private readonly FilmRepository _filmrepository;
         private readonly GenreRepository _genrerepository;
@@ -39,6 +39,11 @@ namespace FilmClub.Service.Films
             film.AddGenre(genre);
             _filmrepository.Add(film);
             _unit.Complete();   
+        }
+
+        public void Dispose()
+        {
+            
         }
 
         public async Task UpdatePublicData(int id, UpdatePublicFilmeDTO dTO)
